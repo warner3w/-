@@ -1,0 +1,6 @@
+E:\v2017code\排序算法\排序算法\bin\Debug\排序算法.exe.config
+E:\v2017code\排序算法\排序算法\bin\Debug\排序算法.exe
+E:\v2017code\排序算法\排序算法\bin\Debug\排序算法.pdb
+E:\v2017code\排序算法\排序算法\obj\Debug\排序算法.csproj.CoreCompileInputs.cache
+E:\v2017code\排序算法\排序算法\obj\Debug\排序算法.exe
+E:\v2017code\排序算法\排序算法\obj\Debug\排序算法.pdb
